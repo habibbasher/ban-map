@@ -6,5 +6,5 @@
    (
    Example: open the project with vscode and install live-server package to vscode
    then open the index.html file and run it with live-server
-   if every thing is ok then it will open a link like this `http://127.0.0.1:5500/index.html`
+   if everything is ok then it will open a link like this `http://127.0.0.1:5500/index.html`
    )
